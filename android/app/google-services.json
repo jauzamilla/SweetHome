@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "422070916480",
+    "project_id": "aplikasifirebase-fe7be",
+    "storage_bucket": "aplikasifirebase-fe7be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422070916480:android:6197be2615be52c81d1d65",
+        "android_client_info": {
+          "package_name": "com.example.sweethome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422070916480-geci23m1t8vidp47278ohkf0nfbk3oia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_sJqRerawkDG9ysop2kKDw_xffEPsl0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422070916480-geci23m1t8vidp47278ohkf0nfbk3oia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
